@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jenni\\OneDrive\\Desktop\\JAlbertKnowledgeCheck2\\JAlbertKnowledgeCheckSD2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8469E5-FA96-45C5-A730-8A7E8605D750}|JAlbertKnowledgeCheckSD2.csproj|c:\\users\\jenni\\onedrive\\desktop\\jalbertknowledgecheck2\\jalbertknowledgechecksd2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8469E5-FA96-45C5-A730-8A7E8605D750}|JAlbertKnowledgeCheckSD2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8469E5-FA96-45C5-A730-8A7E8605D750}|JAlbertKnowledgeCheckSD2.csproj|c:\\users\\jenni\\onedrive\\desktop\\jalbertknowledgecheck2\\jalbertknowledgechecksd2\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8469E5-FA96-45C5-A730-8A7E8605D750}|JAlbertKnowledgeCheckSD2.csproj|solutionrelative:books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8469E5-FA96-45C5-A730-8A7E8605D750}|JAlbertKnowledgeCheckSD2.csproj|c:\\users\\jenni\\onedrive\\desktop\\jalbertknowledgecheck2\\jalbertknowledgechecksd2\\graphicnovels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8469E5-FA96-45C5-A730-8A7E8605D750}|JAlbertKnowledgeCheckSD2.csproj|solutionrelative:graphicnovels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GraphicNovels.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\JAlbertKnowledgeCheck2\\JAlbertKnowledgeCheckSD2\\GraphicNovels.cs",
+              "RelativeDocumentMoniker": "GraphicNovels.cs",
+              "ToolTip": "C:\\Users\\jenni\\OneDrive\\Desktop\\JAlbertKnowledgeCheck2\\JAlbertKnowledgeCheckSD2\\GraphicNovels.cs",
+              "RelativeToolTip": "GraphicNovels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:28:51.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\JAlbertKnowledgeCheck2\\JAlbertKnowledgeCheckSD2\\Books.cs",
+              "RelativeDocumentMoniker": "Books.cs",
+              "ToolTip": "C:\\Users\\jenni\\OneDrive\\Desktop\\JAlbertKnowledgeCheck2\\JAlbertKnowledgeCheckSD2\\Books.cs",
+              "RelativeToolTip": "Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:22:26.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\JAlbertKnowledgeCheck2\\JAlbertKnowledgeCheckSD2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jenni\\OneDrive\\Desktop\\JAlbertKnowledgeCheck2\\JAlbertKnowledgeCheckSD2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:19:32.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

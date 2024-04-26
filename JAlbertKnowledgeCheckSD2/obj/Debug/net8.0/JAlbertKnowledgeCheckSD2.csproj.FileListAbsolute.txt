@@ -1,0 +1,15 @@
+C:\Users\jenni\OneDrive\Desktop\JAlbertKnowledgeCheck2\JAlbertKnowledgeCheckSD2\bin\Debug\net8.0\JAlbertKnowledgeCheckSD2.exe
+C:\Users\jenni\OneDrive\Desktop\JAlbertKnowledgeCheck2\JAlbertKnowledgeCheckSD2\bin\Debug\net8.0\JAlbertKnowledgeCheckSD2.deps.json
+C:\Users\jenni\OneDrive\Desktop\JAlbertKnowledgeCheck2\JAlbertKnowledgeCheckSD2\bin\Debug\net8.0\JAlbertKnowledgeCheckSD2.runtimeconfig.json
+C:\Users\jenni\OneDrive\Desktop\JAlbertKnowledgeCheck2\JAlbertKnowledgeCheckSD2\bin\Debug\net8.0\JAlbertKnowledgeCheckSD2.dll
+C:\Users\jenni\OneDrive\Desktop\JAlbertKnowledgeCheck2\JAlbertKnowledgeCheckSD2\bin\Debug\net8.0\JAlbertKnowledgeCheckSD2.pdb
+C:\Users\jenni\OneDrive\Desktop\JAlbertKnowledgeCheck2\JAlbertKnowledgeCheckSD2\obj\Debug\net8.0\JAlbertKnowledgeCheckSD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenni\OneDrive\Desktop\JAlbertKnowledgeCheck2\JAlbertKnowledgeCheckSD2\obj\Debug\net8.0\JAlbertKnowledgeCheckSD2.AssemblyInfoInputs.cache
+C:\Users\jenni\OneDrive\Desktop\JAlbertKnowledgeCheck2\JAlbertKnowledgeCheckSD2\obj\Debug\net8.0\JAlbertKnowledgeCheckSD2.AssemblyInfo.cs
+C:\Users\jenni\OneDrive\Desktop\JAlbertKnowledgeCheck2\JAlbertKnowledgeCheckSD2\obj\Debug\net8.0\JAlbertKnowledgeCheckSD2.csproj.CoreCompileInputs.cache
+C:\Users\jenni\OneDrive\Desktop\JAlbertKnowledgeCheck2\JAlbertKnowledgeCheckSD2\obj\Debug\net8.0\JAlbertKnowledgeCheckSD2.sourcelink.json
+C:\Users\jenni\OneDrive\Desktop\JAlbertKnowledgeCheck2\JAlbertKnowledgeCheckSD2\obj\Debug\net8.0\JAlbertKnowledgeCheckSD2.dll
+C:\Users\jenni\OneDrive\Desktop\JAlbertKnowledgeCheck2\JAlbertKnowledgeCheckSD2\obj\Debug\net8.0\refint\JAlbertKnowledgeCheckSD2.dll
+C:\Users\jenni\OneDrive\Desktop\JAlbertKnowledgeCheck2\JAlbertKnowledgeCheckSD2\obj\Debug\net8.0\JAlbertKnowledgeCheckSD2.pdb
+C:\Users\jenni\OneDrive\Desktop\JAlbertKnowledgeCheck2\JAlbertKnowledgeCheckSD2\obj\Debug\net8.0\JAlbertKnowledgeCheckSD2.genruntimeconfig.cache
+C:\Users\jenni\OneDrive\Desktop\JAlbertKnowledgeCheck2\JAlbertKnowledgeCheckSD2\obj\Debug\net8.0\ref\JAlbertKnowledgeCheckSD2.dll
