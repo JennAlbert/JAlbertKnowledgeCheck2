@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JAlbertKnowledgeCheckSD2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecdd12cfcaa6478d6a05af3a6af7504944dd76e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34d727dc963225055a663ec07601064b48fe62ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("JAlbertKnowledgeCheckSD2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JAlbertKnowledgeCheckSD2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
